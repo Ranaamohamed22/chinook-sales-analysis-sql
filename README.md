@@ -13,6 +13,16 @@ This project analyzes the Chinook database using SQL to extract business insight
 - Monthly revenue trends 
 - Window functions (ROW_NUMBER)
 - CTE and View creation
+  ## 📊 Key Insights
+
+### Total Revenue per Country
+![Total Revenue](total_revenue_per_country.png)
+
+### Top Quantity per Composer
+![Top Composer](top_quantity_per_composer.png)
+
+### Top 5 Best Selling Tracks
+![Top Tracks](top_5_best_selling.png)
  ##  Files
  - `Chinook.sql` → contains all analysis queries
    ## Author
