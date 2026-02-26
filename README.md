@@ -13,7 +13,7 @@ This project analyzes the Chinook database using SQL to extract business insight
 - Monthly revenue trends 
 - Window functions (ROW_NUMBER)
 - CTE and View creation
-  ## 📊 Key Insights
+  ## Key Insights
 
 ### Total Revenue per Country
 ![Total Revenue](total_revenue_per_country.png)
