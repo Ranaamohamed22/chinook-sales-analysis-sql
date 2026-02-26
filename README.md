@@ -10,11 +10,11 @@ This project analyzes the Chinook database using SQL to extract business insight
 - Joins between multiple tables
 - Revenue analysis by country
 - Top customers by spending
-- Monthly revenue trends -
+- Monthly revenue trends 
 - Window functions (ROW_NUMBER)
 - CTE and View creation
  ##  Files
  - `Chinook.sql` → contains all analysis queries
    ## Author
-    Rana Mohamed
+   **Rana Mohamed**
 
