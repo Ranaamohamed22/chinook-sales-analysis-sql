@@ -13,6 +13,8 @@ This project analyzes the Chinook database using SQL to extract business insight
 - Monthly revenue trends -
 - Window functions (ROW_NUMBER)
 - CTE and View creation
- ##  Files - `Chinook.sql` → contains all analysis queries
-   ## Author Rana Mohamed
+ ##  Files
+ - `Chinook.sql` → contains all analysis queries
+   ## Author
+    Rana Mohamed
 
